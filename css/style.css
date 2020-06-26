@@ -153,7 +153,7 @@ body {
 }
 .name_a{
 	color: #fff;
-	background: #ffcb00;
+	background: #000;
 	font-size: 16rem;
 	text-decoration: none;
 	padding: 15rem 20rem;
@@ -161,7 +161,7 @@ body {
 	transition: background 0.2s ease;
 }
 .name_a:hover{
-	background: #000;
+	background: #ffcb00;
 }
 .block_4{
 	width: 23%;
@@ -210,7 +210,7 @@ body {
 .rate_h3{
 	font-family: 'Montserrat-Bold';
 	padding: 15rem 0;
-	color: #595546;
+	color: #ffcb00;
 	font-size: 16rem;
 	border-bottom: 1rem solid #d4d4d4;
 	text-align: center;
@@ -222,14 +222,14 @@ body {
 	line-height: 36rem;
 	text-align: center;
 	margin-top: 30rem;
-	color: #B3AEB5;
+	color: #000;
 }
 .rate_price_2{
 	font-family: 'Montserrat-Bold';
 	font-size: 24rem;
 	line-height: 36rem;
 	text-align: center;
-	color: #595546;
+	color: #ffcb00;
 	margin-bottom: 50rem;
 }
 .rate_price_3{
@@ -241,7 +241,7 @@ body {
 	color: #acacac;
 }
 .rate_a{
-	background: #ffcb00;
+	background: #000;
 	color: #fff;
 	text-align: center;
 	display: block;
@@ -251,10 +251,11 @@ body {
 	margin: auto;
 	margin-bottom: 60rem;
 	width: 240rem;
+	text-decoration: none;
 	transition: background 0.2s ease-in;
 }
 .rate_a:hover{
-	background: #000;
+	background: #ffcb00;
 }
 .rate_p{
 	font-size: 16rem;
