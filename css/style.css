@@ -153,7 +153,7 @@ body {
 }
 .name_a{
 	color: #fff;
-	background: #000;
+	background: #ffcb00;
 	font-size: 16rem;
 	text-decoration: none;
 	padding: 15rem 20rem;
@@ -241,7 +241,7 @@ body {
 	color: #acacac;
 }
 .rate_a{
-	background: #000;
+	background: #ffcb00;
 	color: #fff;
 	text-align: center;
 	display: block;
@@ -251,6 +251,10 @@ body {
 	margin: auto;
 	margin-bottom: 60rem;
 	width: 240rem;
+	transition: background 0.2s ease-in;
+}
+.rate_a:hover{
+	background: #000;
 }
 .rate_p{
 	font-size: 16rem;
